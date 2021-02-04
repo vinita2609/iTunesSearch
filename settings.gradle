@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "iTunesApi"
+rootProject.name = "iTunesSearch"
